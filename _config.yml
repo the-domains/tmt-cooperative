@@ -1,0 +1,28 @@
+name: TMT ~ cooperative
+favicon: null
+layout_spectrum: 0.7480743040796369
+typography_spectrum: 0.6293438072316349
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.08873411174863577
+  lightness: 0.9724945020861924
+  saturation: 0.9903144768904895
+  rhythmicContrast: 0.5688952102791518
+purpose: []
